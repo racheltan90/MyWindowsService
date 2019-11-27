@@ -27,7 +27,6 @@ Public Class MyNewService
     Protected Overrides Sub OnStart(ByVal args() As String)
         ' Add code here to start your service. This method should set things
         ' in motion so your service can do its work.
-        ' I am using this file to do amendment
 
         EventLog1.WriteEntry("In OnStart")
 
