@@ -54,4 +54,10 @@ Public Class MyNewService
 
     End Sub
 
+    Private Sub Comment()
+
+        'This is to comment any transaction
+
+    End Sub
+
 End Class
